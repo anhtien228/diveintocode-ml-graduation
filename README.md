@@ -238,15 +238,15 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://github.com/anhtien228/diveintocode-ml-graduation.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/anhtien228/diveintocode-ml-graduation.svg?style=for-the-badge
 [contributors-url]: https://github.com/anhtien228/diveintocode-ml-graduation/graphs/contributors
-[forks-shield]: https://github.com/anhtien228/diveintocode-ml-graduation.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/anhtien228/diveintocode-ml-graduation.svg?style=for-the-badge
 [forks-url]: https://github.com/anhtien228/diveintocode-ml-graduation/network/members
-[stars-shield]: https://github.com/anhtien228/diveintocode-ml-graduation.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/anhtien228/diveintocode-ml-graduation.svg?style=for-the-badge
 [stars-url]: https://github.com/anhtien228/diveintocode-ml-graduation/stargazers
-[issues-shield]: https://github.com/anhtien228/diveintocode-ml-graduation.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/anhtien228/diveintocode-ml-graduation.svg?style=for-the-badge
 [issues-url]: https://github.com/anhtien228/diveintocode-ml-graduation/issues
-[license-shield]: https://github.com/anhtien228/diveintocode-ml-graduation.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/anhtien228/diveintocode-ml-graduation.svg?style=for-the-badge
 [license-url]: https://github.com/anhtien228/diveintocode-ml-graduation/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/atien228/
