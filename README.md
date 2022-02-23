@@ -36,7 +36,7 @@
   <h3 align="center">DIVE INTO CODE Graduation Assignment</h3>
 
   <p align="center">
-    A repository for the graduation assignment from the Machine Learning Engineer course, which is a costless offer from the DIVE INTO CODE company to the students of Ho Chi Minh City University of Technology. The academic year took play from 2021 to 2022.<br><br>The concept and objective of this project is based on one of the challenges of Zalo AI Challenge 2021, the Legal Text Retrieval. The aim is to build an automatic system to answer or recommend instructions for legal situations. With that, ordinary people and even experts can get the job references or guides quickly.
+    A repository for the graduation assignment from the Machine Learning Engineer course, which is a costless offer from the DIVE INTO CODE company to the students of Ho Chi Minh City University of Technology. The academic year took play from 2021 to 2022.<br><br>The concept and objective of this project is based on one of the challenges of Zalo AI Challenge 2021, the 5k Compliance. During the Covid-19 outbreak, the Vietnamese government pushed the "5K" public health safety message. In the message, masking and keeping a safe distance are two key rules that have been shown to be extremely successful in preventing people from contracting or spreading the virus. Enforcing these principles on a large scale is where technology may help. In this challenge, we will create algorithm to detect whether or not a person or group of individuals in a picture adhere to the "mask" and "distance" standards.
     <br />
     <a href="https://github.com/anhtien228/diveintocode-ml-graduation"><strong>Explore the docs »</strong></a>
     <br />
