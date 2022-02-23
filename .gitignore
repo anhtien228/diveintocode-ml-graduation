@@ -39,6 +39,8 @@ ehthumbs.db
 Thumbs.db
 
 # Folders
-data/
 yolov5/
 dataset/
+wandb/
+submission/
+BLANK_README.md
