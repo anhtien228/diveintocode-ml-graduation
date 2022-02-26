@@ -122,9 +122,9 @@ _For more examples, please refer to the [WandB Documentation](https://docs.wandb
 
 Open the notebooks on Google Colaborary or Visual Studio Code is more appropriate as than Kaggle as Kaggle will erase all available outputs in the notebooks.
 
-The report for detailed explanation and discussion conducted by me can be found at the repositry, named `MEF2103_AnhTien_Doan_Graduation.pdf`
+The report for detailed explanation and discussion conducted by me can be found at the repositry, named [MEF2103_AnhTien_Doan_Graduation.pdf](MEF2103_AnhTien_Doan_Graduation.pdf)
 
-The report for experimental data and metrics analyzing can be found at this link: [Comparision of different metrics](MEF2103_AnhTien_Doan_Graduation.pdf). Written on WandB
+The report for experimental data and metrics analyzing can be found at this link: [Comparision of different metrics](https://wandb.ai/atien228/diveintocode-grad-results-graph/reports/Comparison-of-different-metrics--VmlldzoxNjE2NjEx). Written on WandB
 
 
 
