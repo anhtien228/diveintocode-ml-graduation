@@ -41,6 +41,7 @@ Thumbs.db
 # Folders
 yolov5/
 dataset/
-wandb/
 submission/
+report/
+wandb/
 BLANK_README.md
