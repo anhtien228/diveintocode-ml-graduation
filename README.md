@@ -120,7 +120,7 @@ _For more examples, please refer to the [WandB Documentation](https://docs.wandb
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Open the notebooks on Google Colaborary or Visual Studio Code is more appropriate as than Kaggle as Kaggle will erase all available outputs in the notebooks.
+Open the notebooks on Google Colaborary or Visual Studio Code is more appropriate as Kaggle (where it ran) will erase all available outputs in the notebooks.
 
 The report for detailed explanation and discussion conducted by me can be found at the repositry, named [MEF2103_AnhTien_Doan_Graduation.pdf](MEF2103_AnhTien_Doan_Graduation.pdf)
 
