@@ -36,7 +36,7 @@
   <h3 align="center">DIVE INTO CODE Graduation Assignment</h3>
 
   <p align="center">
-    A repository for the graduation assignment from the Machine Learning Engineer course, which is a costless offer from the DIVE INTO CODE company to the students of Ho Chi Minh City University of Technology. The academic year took place from 2021 to 2022.
+    A repository for the graduation assignment from the Machine Learning Engineer course, which is a costless offer from the DIVE INTO CODE company to the students of Ho Chi Minh City University of Technology. The academic year took place from 2021 to 2022. To see the repository consist of my works throughout the course, please refer to <a href="https://github.com/anhtien228/diveintocode-ml">diveintocode-ml</a>
     <br />
     <a href="https://github.com/anhtien228/diveintocode-ml-graduation"><strong>Explore the docs »</strong></a>
     <br />
